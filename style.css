@@ -1,11 +1,11 @@
 /* Google font  */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https: //fonts.googleapis.com/css?family=Tangerine');
 
 /* use google font  */
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Tangerine', serif;
+   
 }
-
 .cover-bg {
     filter: brightness(50%);
 }
